@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 266f7d1ea3278ae44a962eb52d51e7dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7146027699162207721
+    second: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_0"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c2cea3ab9fab4a90016027de74dd0
+      internalID: 1713403670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_1"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 820
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b4a431fa11b2c489657fbbbfb26c4b
+      internalID: -901100144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_2"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 820
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c0edc6ebc3b3149be620025953c08a
+      internalID: 1377383555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_3"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 820
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe45041a79e55f4181797ae9fbb9058
+      internalID: -590362441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_4"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 820
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b47b150034aaf4392aaf1eddd130a3
+      internalID: -308698066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_5"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 820
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e5ef0c6ecae8e4a86d9c9a63ed5fec
+      internalID: -115038894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5cc41185ae51d41a5e0d83afcb3990
+      internalID: 930305146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_7"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 616
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c832cfda9ce84408f5f3ed253dd17e
+      internalID: 194480762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_8"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 616
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e0ccca622653a4b936a79c2f31ea30
+      internalID: -965858398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_9"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 616
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762f1734163c19e42ada8fc78439a84f
+      internalID: -1661335880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_10"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 616
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb282c077d5a904ba9547ab800ae93c
+      internalID: 36910379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_11"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 616
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15c07085a1c774469ca78e14d329b30
+      internalID: -17308634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abe0530cfda6d34f959299796d1765f
+      internalID: 1518087453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_13"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 412
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b0e408dd53dfd4094a56dacc67f54b
+      internalID: -1141489155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_14"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 412
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35590698e1a7e12409b27c9c38b66767
+      internalID: -1263140926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_15"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 412
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5665cdfe5976740803cef448d347f0
+      internalID: 1943371874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_16"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 412
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6076bee2ce359e440b81a8494d6bc4bb
+      internalID: -766489898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_17"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 412
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb22604c15f38d42b9b5c77e37b47ad
+      internalID: 436765371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81113a42ad9315345a8a90f3edc9a3e4
+      internalID: -1443506675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_19"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 208
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf623d09aa79f241b461aaff9313537
+      internalID: 338330832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_20"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 208
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18607ddb259829341b1e12a7e3fa7bf0
+      internalID: 656102980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_21"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 208
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8734f64cec1ef24eaf707f765b324d5
+      internalID: 508081422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_22"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 208
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcf4cb405226d743b743c5ec6cbef03
+      internalID: 1790641060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_23"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 208
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b4908a195945d41825e16a13444f7e
+      internalID: 1288899355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d2f7a1b79d6634fa5a850bca5570bc
+      internalID: 1868761361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_25"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 4
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2193977052458f848b143dfd9d04d4ed
+      internalID: 1093653798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_26"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06711471648557438e673b03cec0ada
+      internalID: -1425668244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_27"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688e76da13ee884499ce285c085823d0
+      internalID: -253881502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_28"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 4
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab54b13c765b1c499512186d728c125
+      internalID: 132119928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_29"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 4
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d88b42f8c79974b9376e144e93f7cd
+      internalID: 1331655664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 78bc4a8e058a47945a160effc2f0fa3e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_0": 1713403670
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_1": -901100144
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_10": 36910379
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_11": -17308634
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_12": 1518087453
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_13": -1141489155
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_14": -1263140926
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_15": 1943371874
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_16": -766489898
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_17": 436765371
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_18": -1443506675
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_19": 338330832
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_2": 1377383555
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_20": 656102980
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_21": 508081422
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_22": 1790641060
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_23": 1288899355
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_24": 1868761361
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_25": 1093653798
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_26": -1425668244
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_27": -253881502
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_28": 132119928
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_29": 1331655664
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_3": -590362441
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_4": -308698066
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_5": -115038894
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_6": 930305146
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_7": 194480762
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_8": -965858398
+      "K\u0131r\u0131k Aynalar ve Mor \xC7er\xE7eveler_9": -1661335880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

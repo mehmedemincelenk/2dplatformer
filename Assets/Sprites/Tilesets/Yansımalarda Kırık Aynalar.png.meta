@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 670554630fddb95448dcb5644eb59fb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5305779890691904903
+    second: "Yans\u0131malarda K\u0131r\u0131k Aynalar_0"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ae5e6fc451e56b0800000000000000
+      internalID: -5305779890691904903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_1"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 854
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c21a53d2d61ecd43b348c7a95c3a044
+      internalID: -1316018220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_2"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 854
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4c2301027c3af46a6ee25e8b54cb6a
+      internalID: 1575923444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_3"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 854
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764bc2076510fbc448ed5bc0f3cb7189
+      internalID: -144014570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947826fb5479b7e49b41ebd6a3dcae07
+      internalID: -1839413041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_5"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 684
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f744efa39cf5b2c49899715e45ec2798
+      internalID: 1005693419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_6"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 684
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f33d94701ae124d99fa0b01081a06a
+      internalID: -1207855897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_7"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 684
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aadc2b2d57ec248ac1d16d98b0b369
+      internalID: -1101687295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f085c8d5c3ab446a6224d9578599e6
+      internalID: -1973613691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_9"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 514
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0009528f6c5de064fbee534e176d4aa5
+      internalID: 1622880780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_10"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 514
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7975d8b588f1f9b4eaa581eaadf7ed25
+      internalID: 1191364879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_11"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 514
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91769dd69f263c4e8eab5e2e620e68a
+      internalID: -1438452057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc34bedde7b9bce4ca04b0472597cf41
+      internalID: -1170443511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_13"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 344
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483afed7541e50f4ea7a90f717b4b8b1
+      internalID: -63529466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_14"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 344
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de05196ca659215498c23ded1529247e
+      internalID: -117120921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_15"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 344
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eddc064aa0ccf4ab11de17ae05c6a8
+      internalID: -307768966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2811976aee4a9f74783298eba7af00da
+      internalID: 840553981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_17"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 174
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b1c2d2552c9c43b8ff6531b91201c
+      internalID: 1790187174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_18"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 174
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28422d19836566447a2f7defcda0c38e
+      internalID: -267140699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_19"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 174
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bfa4f9aeda8c34fbfeab9772908e17
+      internalID: -1340177078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7848e55989fd5478196cef0b49d636
+      internalID: -1026416337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_21"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc9b0f4c2d53404687d55c2c29ef2a8
+      internalID: -1997178031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_22"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dfefcf3ec7b3a479d700c6a99aa8d8
+      internalID: -375199236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yans\u0131malarda K\u0131r\u0131k Aynalar_23"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4
+        width: 256
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af95fd2b7c2187c4a979c1963cd76089
+      internalID: -715046484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 24610536f3b62354ca65039bd82871ef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_0": -5305779890691904903
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_1": -1316018220
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_10": 1191364879
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_11": -1438452057
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_12": -1170443511
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_13": -63529466
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_14": -117120921
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_15": -307768966
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_16": 840553981
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_17": 1790187174
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_18": -267140699
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_19": -1340177078
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_2": 1575923444
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_20": -1026416337
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_21": -1997178031
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_22": -375199236
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_23": -715046484
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_3": -144014570
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_4": -1839413041
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_5": 1005693419
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_6": -1207855897
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_7": -1101687295
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_8": -1973613691
+      "Yans\u0131malarda K\u0131r\u0131k Aynalar_9": 1622880780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

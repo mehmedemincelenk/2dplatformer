@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 5f2de295b8c02db47be8954c8e57ecf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1982488505185975158
+    second: "Pikselli Zemin ve Yap\u0131lar_0"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30392517c3986d47b8b46abb31ad3e6
+      internalID: 727308294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_1"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 683
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5d933c1b578524fa12131c77098bfe
+      internalID: 70566260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_2"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 683
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5363e280f16fbb479202c4d64f04a3e
+      internalID: 2061632569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_3"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 683
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852c3695482921f48a1b3dff92dcb595
+      internalID: 169917245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_4"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 683
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8549409207b2a324e94a6c77cde05ff8
+      internalID: -1484993886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_5"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 683
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80577f78efdc82f4abf647aa4b71d8e3
+      internalID: 2062030176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_6"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 683
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687e511d0843aa4478c1475b19ca469c
+      internalID: 2010441132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_7"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 683
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7feab10587b3948bec02ff4669dcce
+      internalID: 28451161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_8"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 683
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbae4c92f643b2d44bb44c202f48461f
+      internalID: -987882294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_9"
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 683
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395ba8e9a7b5f7c499895dd9196e3634
+      internalID: 428387809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a360cce664db114aa56f1c8d008ff95
+      internalID: 1683159984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_11"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 342
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee125124dccd574dacd546ea818272e
+      internalID: -571691350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_12"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 342
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceb4897493bbd5448fd35dace141e8c
+      internalID: 806179082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_13"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 342
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169dedcc01e59914e9783fa27fd93e90
+      internalID: 1610019564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_14"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 342
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562edba033d2f1d49920791554ee5ecf
+      internalID: -335605358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_15"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 342
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338a963f089800f4aa3f6be1604bbddb
+      internalID: 1540233995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_16"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 342
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889a08377b56c4242b8c0d1e74912ae6
+      internalID: 1597138090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_17"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 342
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89db001ba719c9b4587637dc327120cc
+      internalID: 522400368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_18"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 342
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edefb2c009670fc4eaded6521925c534
+      internalID: -1453432543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_19"
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 342
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c157e544aff70e746af8371456d3baf6
+      internalID: -1067840579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00db8be0686dc974794bc03b71cf51d5
+      internalID: -1102232558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_21"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d8f2c15534d2146bb11fd2c0f6a524
+      internalID: 1706833749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_22"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c078d36a40026746a69f3a4a65b550c
+      internalID: -422506423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_23"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ea5de414c88364299367c59383f151
+      internalID: 2011776006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_24"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c8016cf74b1d3499ae5d97c70dfb39
+      internalID: -1704416246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_25"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96a1c05dcf6ed4e9435d065d6f955e
+      internalID: 1366984082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_26"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af67a39b48bb8148af392816b6a3747
+      internalID: 746119456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_27"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9833cf8ddc8d83d488fe4ab9fca009e6
+      internalID: 33287007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_28"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b286f3a5d5f674d8293cd092cc820c
+      internalID: -1769938301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pikselli Zemin ve Yap\u0131lar_29"
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1
+        width: 102
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03213297977e834ca0ab7f8e4c5ba39
+      internalID: -371775994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5be62ff37f592ae4abe85a88668b1e6a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Pikselli Zemin ve Yap\u0131lar_0": 727308294
+      "Pikselli Zemin ve Yap\u0131lar_1": 70566260
+      "Pikselli Zemin ve Yap\u0131lar_10": 1683159984
+      "Pikselli Zemin ve Yap\u0131lar_11": -571691350
+      "Pikselli Zemin ve Yap\u0131lar_12": 806179082
+      "Pikselli Zemin ve Yap\u0131lar_13": 1610019564
+      "Pikselli Zemin ve Yap\u0131lar_14": -335605358
+      "Pikselli Zemin ve Yap\u0131lar_15": 1540233995
+      "Pikselli Zemin ve Yap\u0131lar_16": 1597138090
+      "Pikselli Zemin ve Yap\u0131lar_17": 522400368
+      "Pikselli Zemin ve Yap\u0131lar_18": -1453432543
+      "Pikselli Zemin ve Yap\u0131lar_19": -1067840579
+      "Pikselli Zemin ve Yap\u0131lar_2": 2061632569
+      "Pikselli Zemin ve Yap\u0131lar_20": -1102232558
+      "Pikselli Zemin ve Yap\u0131lar_21": 1706833749
+      "Pikselli Zemin ve Yap\u0131lar_22": -422506423
+      "Pikselli Zemin ve Yap\u0131lar_23": 2011776006
+      "Pikselli Zemin ve Yap\u0131lar_24": -1704416246
+      "Pikselli Zemin ve Yap\u0131lar_25": 1366984082
+      "Pikselli Zemin ve Yap\u0131lar_26": 746119456
+      "Pikselli Zemin ve Yap\u0131lar_27": 33287007
+      "Pikselli Zemin ve Yap\u0131lar_28": -1769938301
+      "Pikselli Zemin ve Yap\u0131lar_29": -371775994
+      "Pikselli Zemin ve Yap\u0131lar_3": 169917245
+      "Pikselli Zemin ve Yap\u0131lar_4": -1484993886
+      "Pikselli Zemin ve Yap\u0131lar_5": 2062030176
+      "Pikselli Zemin ve Yap\u0131lar_6": 2010441132
+      "Pikselli Zemin ve Yap\u0131lar_7": 28451161
+      "Pikselli Zemin ve Yap\u0131lar_8": -987882294
+      "Pikselli Zemin ve Yap\u0131lar_9": 428387809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

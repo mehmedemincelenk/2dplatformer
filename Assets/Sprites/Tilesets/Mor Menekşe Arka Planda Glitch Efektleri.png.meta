@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: 36a7604273eb0b0419c0469d19e9cac1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4463058865717704078
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_0"
+  - first:
+      213: 5631615047763553053
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_1"
+  - first:
+      213: -6971703334479330704
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_2"
+  - first:
+      213: -3334227987449564635
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_3"
+  - first:
+      213: -727754166835946318
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_4"
+  - first:
+      213: 9084448145767205030
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_5"
+  - first:
+      213: 2901798253299979147
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_6"
+  - first:
+      213: -7550889735843458309
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_7"
+  - first:
+      213: 381553409273475716
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_8"
+  - first:
+      213: 143248347677067193
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_9"
+  - first:
+      213: 8138902018123539764
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_10"
+  - first:
+      213: -5798444601638582048
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_11"
+  - first:
+      213: -8991967285709751631
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_12"
+  - first:
+      213: -5413135500711118150
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_13"
+  - first:
+      213: -2452090819252143405
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_14"
+  - first:
+      213: 3472464745406352783
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_15"
+  - first:
+      213: 994906277851972294
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_16"
+  - first:
+      213: -1993591138142260141
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_17"
+  - first:
+      213: 7081387152619215301
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_18"
+  - first:
+      213: -5410195483320547901
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_19"
+  - first:
+      213: -7303082895724931490
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_20"
+  - first:
+      213: -2226674816644468201
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_21"
+  - first:
+      213: -3716874481950638599
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_22"
+  - first:
+      213: 5136498549669072635
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_23"
+  - first:
+      213: 2484921100913955883
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_24"
+  - first:
+      213: 9114800647093537818
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_25"
+  - first:
+      213: -4491385041695603161
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_26"
+  - first:
+      213: 4074772707521960465
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_27"
+  - first:
+      213: -397246757269408545
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_28"
+  - first:
+      213: -843654889693581635
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_29"
+  - first:
+      213: -1400139945199587376
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_30"
+  - first:
+      213: -8780769053681798213
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_31"
+  - first:
+      213: -812619121889146407
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_32"
+  - first:
+      213: -4221535370868405860
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_33"
+  - first:
+      213: -2237794403220935038
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_34"
+  - first:
+      213: -8270990991594360432
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_35"
+  - first:
+      213: -97680850855290386
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_36"
+  - first:
+      213: 7267047270337529831
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_37"
+  - first:
+      213: -4333594614458078051
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_38"
+  - first:
+      213: -5843190836775150716
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_39"
+  - first:
+      213: 180200778834899736
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_40"
+  - first:
+      213: -1232978747223228929
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_41"
+  - first:
+      213: -7990344886753035722
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_42"
+  - first:
+      213: -7044033129094529198
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_43"
+  - first:
+      213: -7405280575282934225
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_44"
+  - first:
+      213: 5720417372825856913
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_45"
+  - first:
+      213: 2545267290365339027
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_46"
+  - first:
+      213: 5415934438064409203
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_47"
+  - first:
+      213: -1768247142746657697
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_48"
+  - first:
+      213: 5498090106142434840
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_49"
+  - first:
+      213: -2496603224113784709
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_50"
+  - first:
+      213: 1103908326602004264
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_51"
+  - first:
+      213: -6011222383558014483
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_52"
+  - first:
+      213: 8698616464765432971
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_53"
+  - first:
+      213: 8457747803265758901
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_54"
+  - first:
+      213: -3033404993650798269
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_55"
+  - first:
+      213: -1964304531701876712
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_56"
+  - first:
+      213: -4294344905721904556
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_57"
+  - first:
+      213: 1074823288826244745
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_58"
+  - first:
+      213: 4860878973687874312
+    second: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_59"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_0"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 847
+        width: 177
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85f2ce5468ffed30800000000000000
+      internalID: 4463058865717704078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_1"
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 831
+        width: 235
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1be0b16c04872e40800000000000000
+      internalID: 5631615047763553053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_2"
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 855
+        width: 236
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07204f441c88f3f90800000000000000
+      internalID: -6971703334479330704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_3"
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 933
+        width: 110
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52237e79f417ab1d0800000000000000
+      internalID: -3334227987449564635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_4"
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 933
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcdee9e07f76e5f0800000000000000
+      internalID: -727754166835946318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_5"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 912
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a809e40571721e70800000000000000
+      internalID: 9084448145767205030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_6"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 917
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b835bc11322454820800000000000000
+      internalID: 2901798253299979147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_7"
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 873
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf258e4aac9d53790800000000000000
+      internalID: -7550889735843458309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_8"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 847
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482b59eddcc8b4500800000000000000
+      internalID: 381553409273475716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_9"
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 840
+        width: 74
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b704fdfc9becf100800000000000000
+      internalID: 143248347677067193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_10"
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 759
+        width: 122
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435a6f3834033f070800000000000000
+      internalID: 8138902018123539764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_11"
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 759
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e80d853b59c78fa0800000000000000
+      internalID: -5798444601638582048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_12"
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 669
+        width: 157
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba3657256d163380800000000000000
+      internalID: -8991967285709751631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_13"
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 750
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ababe0f21fda0e4b0800000000000000
+      internalID: -5413135500711118150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_14"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 679
+        width: 184
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daba71446c68fdd0800000000000000
+      internalID: -2452090819252143405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_15"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 721
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d430db94ca03030800000000000000
+      internalID: 3472464745406352783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_16"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 713
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c24c2c0dfd9ecd00800000000000000
+      internalID: 994906277851972294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_17"
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 680
+        width: 223
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354f9af1c675554e0800000000000000
+      internalID: -1993591138142260141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_18"
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 720
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c912e4b814264260800000000000000
+      internalID: 7081387152619215301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_19"
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 725
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c581435fdf1be4b0800000000000000
+      internalID: -5410195483320547901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_20"
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 711
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56951bbccc36aa90800000000000000
+      internalID: -7303082895724931490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_21"
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 708
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712399b3d034911e0800000000000000
+      internalID: -2226674816644468201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_22"
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 680
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd3e9cf9520b6cc0800000000000000
+      internalID: -3716874481950638599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_23"
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 688
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe85527732884740800000000000000
+      internalID: 5136498549669072635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_24"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 663
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2459da53963c7220800000000000000
+      internalID: 2484921100913955883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_25"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 663
+        width: 129
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cc28075e64e7e70800000000000000
+      internalID: 9114800647093537818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_26"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 477
+        width: 234
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7260b38d9156ba1c0800000000000000
+      internalID: -4491385041695603161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_27"
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 464
+        width: 211
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a9d4c30308c8830800000000000000
+      internalID: 4074772707521960465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_28"
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 567
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4f7c0dd22bc7af0800000000000000
+      internalID: -397246757269408545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_29"
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 474
+        width: 141
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbeeac2095cba44f0800000000000000
+      internalID: -843654889693581635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_30"
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 572
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df2b8a5324b19ce0800000000000000
+      internalID: -1400139945199587376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_31"
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 577
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3bd847111742680800000000000000
+      internalID: -8780769053681798213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_32"
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 575
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d98b1ec63ff8b4f0800000000000000
+      internalID: -812619121889146407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_33"
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 574
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9944a462f71a65c0800000000000000
+      internalID: -4221535370868405860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_34"
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 559
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ea8abb8d1c1f0e0800000000000000
+      internalID: -2237794403220935038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_35"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 561
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091ff85c389873d80800000000000000
+      internalID: -8270990991594360432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_36"
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 519
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9996f98c7f4aef0800000000000000
+      internalID: -97680850855290386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_37"
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 535
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7c07a6dfcb9d460800000000000000
+      internalID: 7267047270337529831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_38"
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 537
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c2ea498aafbd3c0800000000000000
+      internalID: -4333594614458078051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_39"
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 519
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b133b74e0d8eea0800000000000000
+      internalID: -5843190836775150716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_40"
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 510
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813f3b257a3308200800000000000000
+      internalID: 180200778834899736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_41"
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 511
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd372cac5493eee0800000000000000
+      internalID: -1232978747223228929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_42"
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 489
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63af93009a79c1190800000000000000
+      internalID: -7990344886753035722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_43"
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 489
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fbc32a0319e3e90800000000000000
+      internalID: -7044033129094529198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_44"
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 470
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e09283d882b3990800000000000000
+      internalID: -7405280575282934225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_45"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 311
+        width: 219
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b2242ea41036f40800000000000000
+      internalID: 5720417372825856913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_46"
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 403
+        width: 88
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395a5ac7d1b925320800000000000000
+      internalID: 2545267290365339027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_47"
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 303
+        width: 205
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a42a33da3492b40800000000000000
+      internalID: 5415934438064409203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_48"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 289
+        width: 226
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c6c7d979ce577e0800000000000000
+      internalID: -1768247142746657697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_49"
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 384
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816a5b742d32d4c40800000000000000
+      internalID: 5498090106142434840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_50"
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 295
+        width: 100
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b785a9168984a5dd0800000000000000
+      internalID: -2496603224113784709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_51"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 126
+        width: 224
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82755b736ced15f00800000000000000
+      internalID: 1103908326602004264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_52"
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 111
+        width: 205
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9c52a4719d39ca0800000000000000
+      internalID: -6011222383558014483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_53"
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 199
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8435b36691b7b870800000000000000
+      internalID: 8698616464765432971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_54"
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 57
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6fe75e0d4ff5570800000000000000
+      internalID: 8457747803265758901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_55"
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 175
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3415c8dda3e27e5d0800000000000000
+      internalID: -3033404993650798269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_56"
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 173
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818383d8f636db4e0800000000000000
+      internalID: -1964304531701876712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_57"
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 145
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45200778f0c6764c0800000000000000
+      internalID: -4294344905721904556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_58"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 88
+        width: 173
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e2ec6261a8aee00800000000000000
+      internalID: 1074823288826244745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Menek\u015Fe Arka Planda Glitch Efektleri_59"
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 114
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803c4da2caf457340800000000000000
+      internalID: 4860878973687874312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_0": 4463058865717704078
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_1": 5631615047763553053
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_10": 8138902018123539764
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_11": -5798444601638582048
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_12": -8991967285709751631
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_13": -5413135500711118150
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_14": -2452090819252143405
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_15": 3472464745406352783
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_16": 994906277851972294
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_17": -1993591138142260141
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_18": 7081387152619215301
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_19": -5410195483320547901
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_2": -6971703334479330704
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_20": -7303082895724931490
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_21": -2226674816644468201
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_22": -3716874481950638599
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_23": 5136498549669072635
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_24": 2484921100913955883
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_25": 9114800647093537818
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_26": -4491385041695603161
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_27": 4074772707521960465
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_28": -397246757269408545
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_29": -843654889693581635
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_3": -3334227987449564635
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_30": -1400139945199587376
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_31": -8780769053681798213
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_32": -812619121889146407
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_33": -4221535370868405860
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_34": -2237794403220935038
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_35": -8270990991594360432
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_36": -97680850855290386
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_37": 7267047270337529831
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_38": -4333594614458078051
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_39": -5843190836775150716
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_4": -727754166835946318
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_40": 180200778834899736
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_41": -1232978747223228929
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_42": -7990344886753035722
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_43": -7044033129094529198
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_44": -7405280575282934225
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_45": 5720417372825856913
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_46": 2545267290365339027
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_47": 5415934438064409203
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_48": -1768247142746657697
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_49": 5498090106142434840
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_5": 9084448145767205030
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_50": -2496603224113784709
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_51": 1103908326602004264
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_52": -6011222383558014483
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_53": 8698616464765432971
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_54": 8457747803265758901
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_55": -3033404993650798269
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_56": -1964304531701876712
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_57": -4294344905721904556
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_58": 1074823288826244745
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_59": 4860878973687874312
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_6": 2901798253299979147
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_7": -7550889735843458309
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_8": 381553409273475716
+      "Mor Menek\u015Fe Arka Planda Glitch Efektleri_9": 143248347677067193
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

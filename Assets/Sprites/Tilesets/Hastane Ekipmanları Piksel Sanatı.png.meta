@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 6d651db98b8273a4c86ccba0f4b05f3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2343674668617224688
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_0"
+  - first:
+      213: -523095272134991219
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_1"
+  - first:
+      213: 4074712545676125984
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_2"
+  - first:
+      213: -1042699450827688698
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_3"
+  - first:
+      213: -8290142754550065993
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_4"
+  - first:
+      213: 7162523625562993681
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_5"
+  - first:
+      213: 6616348779254836327
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_6"
+  - first:
+      213: 2319835998426233258
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_7"
+  - first:
+      213: 4632301167092373554
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_8"
+  - first:
+      213: 1249659029582780426
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_9"
+  - first:
+      213: -613883593016022798
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_10"
+  - first:
+      213: 4913879309853229597
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_11"
+  - first:
+      213: -7525572949699348109
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_12"
+  - first:
+      213: -1001410880733446215
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_13"
+  - first:
+      213: -2460662388013291030
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_14"
+  - first:
+      213: -9012877817813526416
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_15"
+  - first:
+      213: -2185087690349864927
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_16"
+  - first:
+      213: 1354948716965009553
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_17"
+  - first:
+      213: -1923993297117160299
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_18"
+  - first:
+      213: -1898734628930617724
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_19"
+  - first:
+      213: 7215591579173660181
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_20"
+  - first:
+      213: -1215525171886026094
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_21"
+  - first:
+      213: -1970876951872170618
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_22"
+  - first:
+      213: -7502793366561032096
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_23"
+  - first:
+      213: -7606837085884794514
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_24"
+  - first:
+      213: -4259254223609402276
+    second: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_25"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_0"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 767
+        width: 142
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e2df36e48997fd0800000000000000
+      internalID: -2343674668617224688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_1"
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 767
+        width: 267
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8225b81f979db8f0800000000000000
+      internalID: -523095272134991219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_2"
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 767
+        width: 307
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0276ad6b8794c8830800000000000000
+      internalID: 4074712545676125984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_3"
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 767
+        width: 109
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605bbe9bf569781f0800000000000000
+      internalID: -1042699450827688698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_4"
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 767
+        width: 173
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4d3c9761f73fc80800000000000000
+      internalID: -8290142754550065993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_5"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 551
+        width: 143
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114760de945666360800000000000000
+      internalID: 7162523625562993681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_6"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 549
+        width: 151
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ce299e82ef1db50800000000000000
+      internalID: 6616348779254836327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_7"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 615
+        width: 138
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9fb5fac86b13020800000000000000
+      internalID: 2319835998426233258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_8"
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 551
+        width: 294
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2381b255e5d394040800000000000000
+      internalID: 4632301167092373554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_9"
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 544
+        width: 176
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0814a4344ea75110800000000000000
+      internalID: 1249659029582780426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_10"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 400
+        width: 130
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8e6d8ef1c0b77f0800000000000000
+      internalID: -613883593016022798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_11"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 407
+        width: 145
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1281fc823b913440800000000000000
+      internalID: 4913879309853229597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_12"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 439
+        width: 136
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379b1e1464bcf8790800000000000000
+      internalID: -7525572949699348109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_13"
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 407
+        width: 117
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bffba31c164a12f0800000000000000
+      internalID: -1001410880733446215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_14"
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 397
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9ad426898f9ddd0800000000000000
+      internalID: -2460662388013291030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_15"
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 397
+        width: 170
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0781a318063dbe280800000000000000
+      internalID: -9012877817813526416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_16"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 319
+        width: 498
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1281e9d92520da1e0800000000000000
+      internalID: -2185087690349864927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_17"
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 255
+        width: 267
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1981293edaebdc210800000000000000
+      internalID: 1354948716965009553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_18"
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 255
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c591f3a4a9c45e0800000000000000
+      internalID: -1923993297117160299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_19"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 135
+        width: 186
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e7bd73ae656a5e0800000000000000
+      internalID: -1898734628930617724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_20"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 133
+        width: 169
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51622f8bf4ee22460800000000000000
+      internalID: 7215591579173660181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_21"
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 47
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292103adb46912fe0800000000000000
+      internalID: -1215525171886026094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_22"
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 87
+        width: 131
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68597abbad906a4e0800000000000000
+      internalID: -1970876951872170618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_23"
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 47
+        width: 160
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068f8f24f29b0e790800000000000000
+      internalID: -7502793366561032096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_24"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 47
+        width: 186
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69b19f19f51f6690800000000000000
+      internalID: -7606837085884794514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_25"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 169
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ceda1a9d614e4c0800000000000000
+      internalID: -4259254223609402276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_0": -2343674668617224688
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_1": -523095272134991219
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_10": -613883593016022798
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_11": 4913879309853229597
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_12": -7525572949699348109
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_13": -1001410880733446215
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_14": -2460662388013291030
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_15": -9012877817813526416
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_16": -2185087690349864927
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_17": 1354948716965009553
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_18": -1923993297117160299
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_19": -1898734628930617724
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_2": 4074712545676125984
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_20": 7215591579173660181
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_21": -1215525171886026094
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_22": -1970876951872170618
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_23": -7502793366561032096
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_24": -7606837085884794514
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_25": -4259254223609402276
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_3": -1042699450827688698
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_4": -8290142754550065993
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_5": 7162523625562993681
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_6": 6616348779254836327
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_7": 2319835998426233258
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_8": 4632301167092373554
+      "Hastane Ekipmanlar\u0131 Piksel Sanat\u0131_9": 1249659029582780426
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: b4fcbeba4dabdb74aba7a57a4eb40f57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5998652657980115357
+    second: "Mor Yaranm\u0131\u015F \xC7atlaklar_0"
+  - first:
+      213: 5707436250357779766
+    second: "Mor Yaranm\u0131\u015F \xC7atlaklar_1"
+  - first:
+      213: -8894394128505130374
+    second: "Mor Yaranm\u0131\u015F \xC7atlaklar_2"
+  - first:
+      213: -6416000747421138539
+    second: "Mor Yaranm\u0131\u015F \xC7atlaklar_3"
+  - first:
+      213: -1444508176088214889
+    second: "Mor Yaranm\u0131\u015F \xC7atlaklar_4"
+  - first:
+      213: 227005811072022934
+    second: "Mor Yaranm\u0131\u015F \xC7atlaklar_5"
+  - first:
+      213: -3312208332321226473
+    second: "Mor Yaranm\u0131\u015F \xC7atlaklar_6"
+  - first:
+      213: -9177028634677988304
+    second: "Mor Yaranm\u0131\u015F \xC7atlaklar_7"
+  - first:
+      213: -2975248928844153405
+    second: "Mor Yaranm\u0131\u015F \xC7atlaklar_8"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Mor Yaranm\u0131\u015F \xC7atlaklar_0"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 836
+        width: 485
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d998bd96fce7f3350800000000000000
+      internalID: 5998652657980115357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Yaranm\u0131\u015F \xC7atlaklar_1"
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 381
+        width: 353
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d43c8c703e43f40800000000000000
+      internalID: 5707436250357779766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Yaranm\u0131\u015F \xC7atlaklar_2"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 326
+        width: 291
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72b1262aa3c09480800000000000000
+      internalID: -8894394128505130374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Yaranm\u0131\u015F \xC7atlaklar_3"
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 481
+        width: 348
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591825b4059c5f6a0800000000000000
+      internalID: -6416000747421138539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Yaranm\u0131\u015F \xC7atlaklar_4"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 53
+        width: 207
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7925d19977314fbe0800000000000000
+      internalID: -1444508176088214889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Yaranm\u0131\u015F \xC7atlaklar_5"
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 253
+        width: 398
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699b5ea159c762300800000000000000
+      internalID: 227005811072022934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Yaranm\u0131\u015F \xC7atlaklar_6"
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 206
+        width: 441
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71187e1121ca802d0800000000000000
+      internalID: -3312208332321226473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Yaranm\u0131\u015F \xC7atlaklar_7"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 44
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0343e682415a4a080800000000000000
+      internalID: -9177028634677988304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mor Yaranm\u0131\u015F \xC7atlaklar_8"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 37
+        width: 582
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdf1eddcdac5b6d0800000000000000
+      internalID: -2975248928844153405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Mor Yaranm\u0131\u015F \xC7atlaklar_0": 5998652657980115357
+      "Mor Yaranm\u0131\u015F \xC7atlaklar_1": 5707436250357779766
+      "Mor Yaranm\u0131\u015F \xC7atlaklar_2": -8894394128505130374
+      "Mor Yaranm\u0131\u015F \xC7atlaklar_3": -6416000747421138539
+      "Mor Yaranm\u0131\u015F \xC7atlaklar_4": -1444508176088214889
+      "Mor Yaranm\u0131\u015F \xC7atlaklar_5": 227005811072022934
+      "Mor Yaranm\u0131\u015F \xC7atlaklar_6": -3312208332321226473
+      "Mor Yaranm\u0131\u015F \xC7atlaklar_7": -9177028634677988304
+      "Mor Yaranm\u0131\u015F \xC7atlaklar_8": -2975248928844153405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,961 @@
+fileFormatVersion: 2
+guid: 6a3550b274e56b247a80452269b3aec7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5388339341388453865
+    second: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_0"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2c27001a17e0e4a90c788173dd3e49
+      internalID: -91708999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_1"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 854
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03ae0076d8b4c241a4796ba235da0bf
+      internalID: -829471233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_2"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 854
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8232da4ffd0fdf94d9a899a0f61236e0
+      internalID: -1755054063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_3"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 854
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28c343b196e78e46bb779e892958764
+      internalID: 175104889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_4"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 854
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb85b90c608fcf45a1c69015daaca5f
+      internalID: -1733143559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_5"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 854
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8cc4777041ac641b4758d491240728
+      internalID: 1924489579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ac7e1c987487e459a0ed22de495d43
+      internalID: -2081107542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_7"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 684
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96356b8389439a944acaabd1265480fd
+      internalID: 286669963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_8"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 684
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fac9fd12d0479499e774b8b9ed71ca
+      internalID: 943373039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_9"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 684
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f37df15d4e527c43bc19985f61e3e9e
+      internalID: 1450696706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_10"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 684
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d32b2b021f74c4f89b956b8f2596cd
+      internalID: 132748796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_11"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 684
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc18ccfec2621b45a6631c58d766dca
+      internalID: 498336433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753dfcabfbaf11748b6a863777380836
+      internalID: 1845397179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_13"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 514
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14e54c12a52b824f9b51ee112e04a70
+      internalID: 1109768609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_14"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 514
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee33c5fceefbc914787890af35b4a71c
+      internalID: -195868864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_15"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 514
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33967f6b6d3174044ac0a7f0ac30f9d1
+      internalID: 809801887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_16"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 514
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fe092520effb649a8052c685580d42
+      internalID: 1783719304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_17"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 514
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493600efacd7ce74285fd8cb0b62e3fb
+      internalID: 1618834772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62139c1514a5d2e49869e8eb24895ce1
+      internalID: -2048903008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_19"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 344
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014617b8563ea754cbd978c8a443df2c
+      internalID: 334747235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_20"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 344
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be0afe8d5c7c504391e6679232445fa
+      internalID: -1021712869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_21"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 344
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582a12bbd1e82d441bd5359fe813f4e1
+      internalID: 1222805623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_22"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 344
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c34a9dc09a39ff41b564fa7ad9c8797
+      internalID: 1659374479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_23"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 344
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7213539d38f298046ae5ffa9b42993f8
+      internalID: -511987091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bea662a33041a4088df69e06cbdbbf
+      internalID: -608372432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_25"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 174
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4883ce288ae1ed4589e62555baf0eb5
+      internalID: 1206148279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_26"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 174
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd6c1c5d4e58448a73203ce12224b3
+      internalID: 361087332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_27"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 174
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27b32b7467e1a944b84d45db7287e2b
+      internalID: -2028678519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_28"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 174
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54db30a181365044dbec32920153dae7
+      internalID: -498784248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_29"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 174
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cce834014745604799e542f6f2b5db9
+      internalID: 1495527251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_30"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e2b8d89466b5243b46a153d35ba6ce
+      internalID: -708038017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_31"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 4
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0e0781715b46243aba1faf5a3aba02
+      internalID: 1798416318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_32"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2a7fc4829464548b53eb24731c82fe
+      internalID: 1388483666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_33"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f00b601f364084684856ae7646f804
+      internalID: 1648714655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_34"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 4
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f1e01633d9e0748b742d262cd6b37d
+      internalID: -1300521873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_35"
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 4
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f17d124c5c5c7244a3598937ec4d04a
+      internalID: -351017119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8efc730c77cba2a43aed32882ad6cd95
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_0": -91708999
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_1": -829471233
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_10": 132748796
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_11": 498336433
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_12": 1845397179
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_13": 1109768609
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_14": -195868864
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_15": 809801887
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_16": 1783719304
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_17": 1618834772
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_18": -2048903008
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_19": 334747235
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_2": -1755054063
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_20": -1021712869
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_21": 1222805623
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_22": 1659374479
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_23": -511987091
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_24": -608372432
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_25": 1206148279
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_26": 361087332
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_27": -2028678519
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_28": -498784248
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_29": 1495527251
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_3": 175104889
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_30": -708038017
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_31": 1798416318
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_32": 1388483666
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_33": 1648714655
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_34": -1300521873
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_35": -351017119
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_4": -1733143559
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_5": 1924489579
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_6": -2081107542
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_7": 286669963
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_8": 943373039
+      "Karanl\u0131k Ma\u011Fara \xC7evre Tasar\u0131m\u0131_9": 1450696706
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

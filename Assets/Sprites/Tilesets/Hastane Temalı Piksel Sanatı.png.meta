@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: a0f49010d1838e24cb48814c3cae5c81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6454214244518501462
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_0"
+  - first:
+      213: -8673889650262857466
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_1"
+  - first:
+      213: -5159314889524825696
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_2"
+  - first:
+      213: -8869013793806385002
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_3"
+  - first:
+      213: -8367009854976148420
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_4"
+  - first:
+      213: 45442836453961050
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_5"
+  - first:
+      213: 8751239064809302478
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_6"
+  - first:
+      213: -137862111997338137
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_7"
+  - first:
+      213: 1525434293177583653
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_8"
+  - first:
+      213: -4513063433994448576
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_9"
+  - first:
+      213: 8518745508374187139
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_10"
+  - first:
+      213: -7074053081642327323
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_11"
+  - first:
+      213: 8083407225334574953
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_12"
+  - first:
+      213: -8061081601461815655
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_13"
+  - first:
+      213: -7053851240724289573
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_14"
+  - first:
+      213: 2487248423565585349
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_15"
+  - first:
+      213: 4069702866545363931
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_16"
+  - first:
+      213: 6647272820259962830
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_17"
+  - first:
+      213: -8186147703139974926
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_18"
+  - first:
+      213: -497110871689885089
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_19"
+  - first:
+      213: -1600457796688236733
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_20"
+  - first:
+      213: -3744522627886786125
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_21"
+  - first:
+      213: -289329709417301733
+    second: "Hastane Temal\u0131 Piksel Sanat\u0131_22"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_0"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 895
+        width: 245
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c9ac4d8a9f19950800000000000000
+      internalID: 6454214244518501462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_1"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 791
+        width: 194
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609252fb15720a780800000000000000
+      internalID: -8673889650262857466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_2"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 759
+        width: 95
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a13d75717e6668b0800000000000000
+      internalID: -5159314889524825696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_3"
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 639
+        width: 140
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6908120d1feeae480800000000000000
+      internalID: -8869013793806385002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_4"
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 672
+        width: 226
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c34f10ed862eb80800000000000000
+      internalID: -8367009854976148420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_5"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 759
+        width: 243
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dac6cd40271a000800000000000000
+      internalID: 45442836453961050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_6"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 614
+        width: 195
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9ea7a3095a27970800000000000000
+      internalID: 8751239064809302478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_7"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 607
+        width: 115
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edd96ab327361ef0800000000000000
+      internalID: -137862111997338137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_8"
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 575
+        width: 109
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5288c05586e6b2510800000000000000
+      internalID: 1525434293177583653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_9"
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 447
+        width: 67
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041d4ffc7b06e51c0800000000000000
+      internalID: -4513063433994448576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_10"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 368
+        width: 246
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c0996d7e9a83670800000000000000
+      internalID: 8518745508374187139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_11"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 359
+        width: 115
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2a372c33ae3dd90800000000000000
+      internalID: -7074053081642327323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_12"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 327
+        width: 58
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fa4e03b080e2070800000000000000
+      internalID: 8083407225334574953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_13"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 423
+        width: 146
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9967e6f2ef8412090800000000000000
+      internalID: -8061081601461815655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_14"
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 439
+        width: 227
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd72e226bafab1e90800000000000000
+      internalID: -7053851240724289573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_15"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 320
+        width: 146
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbe6c2634b748220800000000000000
+      internalID: 2487248423565585349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_16"
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 239
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb43d5e13d7a7830800000000000000
+      internalID: 4069702866545363931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_17"
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 356
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf34b8496bdf3c50800000000000000
+      internalID: 6647272820259962830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_18"
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 255
+        width: 86
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0467b3906f46e80800000000000000
+      internalID: -8186147703139974926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_19"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 95
+        width: 246
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a80f6cb48e919f0800000000000000
+      internalID: -497110871689885089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_20"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fa46e0d180ac9e0800000000000000
+      internalID: -1600457796688236733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_21"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 95
+        width: 213
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9556f5288c80cc0800000000000000
+      internalID: -3744522627886786125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hastane Temal\u0131 Piksel Sanat\u0131_22"
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 57
+        width: 196
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19f63789281cfbf0800000000000000
+      internalID: -289329709417301733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Hastane Temal\u0131 Piksel Sanat\u0131_0": 6454214244518501462
+      "Hastane Temal\u0131 Piksel Sanat\u0131_1": -8673889650262857466
+      "Hastane Temal\u0131 Piksel Sanat\u0131_10": 8518745508374187139
+      "Hastane Temal\u0131 Piksel Sanat\u0131_11": -7074053081642327323
+      "Hastane Temal\u0131 Piksel Sanat\u0131_12": 8083407225334574953
+      "Hastane Temal\u0131 Piksel Sanat\u0131_13": -8061081601461815655
+      "Hastane Temal\u0131 Piksel Sanat\u0131_14": -7053851240724289573
+      "Hastane Temal\u0131 Piksel Sanat\u0131_15": 2487248423565585349
+      "Hastane Temal\u0131 Piksel Sanat\u0131_16": 4069702866545363931
+      "Hastane Temal\u0131 Piksel Sanat\u0131_17": 6647272820259962830
+      "Hastane Temal\u0131 Piksel Sanat\u0131_18": -8186147703139974926
+      "Hastane Temal\u0131 Piksel Sanat\u0131_19": -497110871689885089
+      "Hastane Temal\u0131 Piksel Sanat\u0131_2": -5159314889524825696
+      "Hastane Temal\u0131 Piksel Sanat\u0131_20": -1600457796688236733
+      "Hastane Temal\u0131 Piksel Sanat\u0131_21": -3744522627886786125
+      "Hastane Temal\u0131 Piksel Sanat\u0131_22": -289329709417301733
+      "Hastane Temal\u0131 Piksel Sanat\u0131_3": -8869013793806385002
+      "Hastane Temal\u0131 Piksel Sanat\u0131_4": -8367009854976148420
+      "Hastane Temal\u0131 Piksel Sanat\u0131_5": 45442836453961050
+      "Hastane Temal\u0131 Piksel Sanat\u0131_6": 8751239064809302478
+      "Hastane Temal\u0131 Piksel Sanat\u0131_7": -137862111997338137
+      "Hastane Temal\u0131 Piksel Sanat\u0131_8": 1525434293177583653
+      "Hastane Temal\u0131 Piksel Sanat\u0131_9": -4513063433994448576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
